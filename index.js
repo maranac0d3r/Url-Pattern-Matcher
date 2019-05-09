@@ -7,7 +7,7 @@ function matches(pattern,url){
     var urlArr = url.split("/")
     if(urlArr.length!=patternArr.length){
         return false;
-    }git
+    }
     for(var i=0;i<patternArr.length;i+=1){
         if((patternArr[i].indexOf(":")!=0 && patternArr[i] != urlArr[i] )){
             return false;
