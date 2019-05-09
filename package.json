@@ -1,6 +1,6 @@
 {
   "name": "url_pattern_matcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns whether the url pattern is matched or not",
   "main": "index.js",
   "scripts": {
