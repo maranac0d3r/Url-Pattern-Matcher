@@ -1,0 +1,30 @@
+{
+  "name": "url_pattern_matcher",
+  "version": "1.0.0",
+  "description": "Returns whether the url pattern is matched or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maranac0d3r/Url-Pattern-Matcher.git"
+  },
+  "keywords": [
+    "url",
+    "pattern",
+    "matcher",
+    "urlpattern",
+    "routerpattern",
+    "routerurl",
+    "router",
+    "route",
+    "urlmatch"
+  ],
+  "author": "maranac0d3r <maranac0d3r@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maranac0d3r/Url-Pattern-Matcher/issues"
+  },
+  "homepage": "https://github.com/maranac0d3r/Url-Pattern-Matcher#readme"
+}
